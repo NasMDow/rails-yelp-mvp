@@ -43,3 +43,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# gems installed for yelp challenge
+gem 'autoprefixer-rails', '~> 7.1', '>= 7.1.6'
+gem 'font-awesome-sass', '~> 5.6', '>= 5.6.1'
+gem 'simple_form'
